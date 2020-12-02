@@ -27,7 +27,7 @@ providers:
 certificatesResolvers:
   letsencrypt:
     acme:
-      email: rafrasenberg@gmail.com
+      email: contato@tiagopache.co
       storage: acme.json
       keyType: EC384
       httpChallenge:
