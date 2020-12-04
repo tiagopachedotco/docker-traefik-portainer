@@ -12,7 +12,7 @@ http:
     user-auth:
       basicAuth:
         users:
-          - "tiago:$apr1$qj0ki3m9$oNcfhw.sGAUfiizsm5kh11"
+          - "tiago:$apr1$na392bcq$FMTjnC23S1w60u6mwnK2J0"
 
 tls:
   options:
